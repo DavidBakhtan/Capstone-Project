@@ -1,0 +1,8 @@
+{
+  "loginForm": {
+    "fields": {
+      "email":    { "type": "email",    "required": true },
+      "password": { "type": "password", "required": true, "minLength": 6 }
+    }
+  }
+}
